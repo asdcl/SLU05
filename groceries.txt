@@ -4,3 +4,4 @@ rice
 flour
 tofu
 butter
+eggs
